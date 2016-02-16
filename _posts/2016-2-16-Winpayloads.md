@@ -8,8 +8,8 @@ published: true
 
 *Winpaylods is a payload generator tool that uses metasploits meterpreter shellcode, injects the users ip and port into the shellcode and writes a python file that executes the shellcode using ctypes. This is then aes encrypted and compiled to an Windows Executable using pyinstaller.*
 
-#Features:
-<br />
+#Features: 
+
   - Undetectable Windows Payload Generation
   - Easy to Use Gui
   - Upload Payload to Local WebServer
