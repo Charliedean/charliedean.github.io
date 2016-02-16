@@ -19,4 +19,7 @@ published: true
 
 Winpayloads also comes with a few features such as **uac bypass** and **payload persistence**. These are powershell files that execute on the system when the meterpreter gets a reverse shell. The uac bypass is written by **PowerShellEmpire** and uses an exploit to bypass uac on local administrator accounts and creates a reverse meterpreter running as local administrator back to the attackers machine.
 
-Winpayloads can also setup a **SimpleHTTPServer** to put the payload on the network to allow downloading on the target machine and also has a **psexec** feature that will execute the payload on the target machine if supplied with usernames,domain,passwords or hashes. **psexec.py is writted by imacket**
+Winpayloads can also setup a **SimpleHTTPServer** to put the payload on the network to allow downloading on the target machine and also has a **psexec** feature that will execute the payload on the target machine if supplied with usernames,domain,passwords or hashes. **psexec.py - imacket example**
+
+*--Short video in bad quality--* :pensive:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7_fzT-eNDQ" frameborder="0" allowfullscreen></iframe>
